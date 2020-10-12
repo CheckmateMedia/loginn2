@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(190, 224, 253);
+    font-family: 'Lato', sans-serif;
+}
+
+.logout {
+    float: right;
+}
+
+

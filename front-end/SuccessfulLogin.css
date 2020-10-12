@@ -1,0 +1,52 @@
+
+#content {
+    width: 100%;
+    text-align: center;
+    margin-top: 2%;
+    color: black;
+}
+
+#menu {
+    list-style-type: none; 
+    text-align: center; 
+}
+
+#logout {
+    font-family: orbitron;
+}
+
+.logout {
+    text-decoration: none;
+    color: black;
+}
+
+#finger {
+    height: 1em;
+    text-align: center;
+    float: right;
+    margin-right: 1em;
+}
+
+body {
+    height: 100%;
+}
+html {
+    height: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    margin-bottom: .25em;
+}
+
+#footer {
+    position: relative;
+}
+
+#footText {
+    font-size: .5em;
+}
+
+
